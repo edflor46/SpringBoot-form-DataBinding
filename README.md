@@ -8,3 +8,4 @@
 - Notacion @SessionAtributes
 - Notacion @Max @Min @Size
 - Formato de fechas
+- Interceptor HTTP para el tiempo transcurrido
